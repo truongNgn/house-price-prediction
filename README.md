@@ -66,6 +66,3 @@ It includes **exploratory data analysis (EDA)**, **feature engineering**, **dime
 
 ---
 
-## 🔗 Reference
-
-GitHub Repository: [Housing Price Prediction](https://github.com/Dzivilord/HousingPrice)
